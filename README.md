@@ -4,4 +4,4 @@ User must create an apache alias to use with this system.
 Works with windows, as haven't yet added linux support.
 Just needs a folder with image files.
 Made this code because some of the code is part of a platform being developed and we needed testing.
-More info after @ https://www.legitpunk.com/index.php/2021/10/13/php-simple-html5-image-explorer-with-css3-animations-auto-install-detect/
+More info and 10 screenshots @ https://www.legitpunk.com/index.php/2021/10/13/php-simple-html5-image-explorer-with-css3-animations-auto-install-detect/
